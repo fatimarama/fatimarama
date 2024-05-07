@@ -1,5 +1,5 @@
 Hi! I'm Fatima, a software engineer currently working as a Data Analyst. My expertise lies in transforming raw numbers into actionable insights that drive businesses forward. I help my clients navigate through the complexities of their data, turning it into meaningful strategies for growth and optimization.
-##
+#
 My diverse skill set includes proficiency in various data tools and platforms such as SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Microsoft Power BI, Tableau, Advance Excel, Google Sheets, and QGIS.
 
 <!---
