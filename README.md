@@ -1,4 +1,4 @@
-## About Me:
+## About Me
 Hi! I'm Fatima Rama, a Data Scientist with a Bacheor's in Software Enineering, specialized in transforming data into insights that help drive businesses forward. 
 
 I am passionate about extracting actionable insights from raw data. Having a track record of success in projects focused on sales analytics, retention strategies, and data-driven analysis, I excel in transforming data into impactful narratives, helping my clients navigate through the complexities of their data, turning it into meaningful strategies for growth and optimization.
