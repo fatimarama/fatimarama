@@ -11,7 +11,7 @@ My expertise lies in:
 
 ## Connect with Me
 - **Linkedin:** [fatimarama93](https://www.linkedin.com/in/fatimarama93/)
-- **Email:** (fatimarama93@gmail.com)
+- **Email:** fatimarama93@gmail.com
 
 <!---
 fatimarama/fatimarama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
