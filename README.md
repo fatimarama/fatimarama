@@ -1,5 +1,5 @@
 ## About Me
-Hi! I'm Fatima Rama, a Data Scientist with a Bachelor's in Software Engineering. 
+Hi! I'm Fatima, a Data Scientist with a Bachelor's in Software Engineering. 
 
 ## Skills
 My expertise lies in:
