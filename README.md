@@ -4,7 +4,7 @@ Hi! I'm Fatima, a Data Analyst with a Bachelor's in Software Engineering.
 ## Skills
 - **Programming Languages:** Python (Pandas, Numpy, Matplotlib, Seabon, SciPy, TensorFlow, Keras, Scikit-Learn, Nltk, YOLO, OpenCV, LangChain), SQL, Java.
 - **Tools:** Jupyter Notebook, Kaggle, Google Colab, Hugging Face, Power BI, Tableau, MySQL Workbench, Qdrant.
-- **Technical Skills:** Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, Machine Learning, Computer Vision (CNN), Natural Language Processing (NLP), Large Language Models (LLMs).
+- **Technical Skills:** Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, Machine Learning, Computer Vision (CV), Natural Language Processing (NLP), Large Language Models (LLMs).
 
 ## Connect with Me
 - **Linkedin:** [fatimarama93](https://www.linkedin.com/in/fatimarama93/)
